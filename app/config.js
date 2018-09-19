@@ -60,7 +60,7 @@ module.exports = {
 	],
 
 	donationAddresses:{
-		coins:["BTC", "LTC"],
+		coins:["BTC", "RVN"],
 
 		"BTC":{address:"bc1qgcz992y7e9yaf8z07dhmmg3cszkm9j3g0wwqfm", urlPrefix:"bitcoin:"},
 		"RVN":{address:"rKgtPp2mzMG4itkyDoaKk97HtfNJswDS5h", urlPrefix:"ravencoin:"}
