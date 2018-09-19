@@ -20,7 +20,7 @@ Live demos are available at:
 * Search supports transactions, blocks, addresses (including bech32)
 * Mempool summary, with fee, size, and age breakdowns
 * RPC command browser and terminal
-* Currently supports BTC, LTC (support for any Bitcoin-RPC-protocol-compliant coin can be added easily)
+* Currently supports BTC, LTC and RVN. (support for any Bitcoin-RPC-protocol-compliant coin can be added easily)
 
 # Getting started
 
