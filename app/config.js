@@ -62,13 +62,14 @@ module.exports = {
 	donationAddresses:{
 		coins:["BTC", "LTC"],
 
-		"BTC":{address:"3NPGpNyLLmVKCEcuipBs7G4KpQJoJXjDGe", urlPrefix:"bitcoin:"},
-		"LTC":{address:"ME4pXiXuWfEi1ANBDo9irUJVcZBhsTx14i", urlPrefix:"litecoin:"}
+		"BTC":{address:"bc1qgcz992y7e9yaf8z07dhmmg3cszkm9j3g0wwqfm", urlPrefix:"bitcoin:"},
+		"RVN":{address:"rKgtPp2mzMG4itkyDoaKk97HtfNJswDS5h", urlPrefix:"ravencoin:"}
 	},
 
 	headerDropdownLinks: {
 		title:"Related Sites",
 		links:[
+			{name: "Ravencoin Explorer", url:"https://rvn.chaintools.io", imgUrl:"/img/logo/rvn.svg"},
 			{name: "Bitcoin Explorer", url:"https://btc.chaintools.io", imgUrl:"/img/logo/btc.svg"},
 			{name: "Litecoin Explorer", url:"https://ltc.chaintools.io", imgUrl:"/img/logo/ltc.svg"},
 			{name: "Lightning Explorer", url:"https://lightning.chaintools.io", imgUrl:"/img/logo/lightning.svg"},
